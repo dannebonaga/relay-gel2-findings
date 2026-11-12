@@ -1,0 +1,4 @@
+solady/=lib/node_modules/solady/src/
+@openzeppelin/=lib/node_modules/@openzeppelin/
+forge-std/=lib/forge-std/src/
+target/=lib/target/
